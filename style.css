@@ -3,3 +3,18 @@
 body{
     background-color: rgb(221, 174, 113);
 }
+nav{
+    background-color: green;
+    padding: 15px;
+}
+nav a{
+    color: white;
+    margin: 15px;
+}
+nav a:hover{
+    color: white;
+    text-decoration: none;
+}
+nav a:first-child{
+    font-size: 1.5em;
+}
