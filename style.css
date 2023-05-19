@@ -11,6 +11,7 @@ nav a{
     color: white;
     margin: 15px;
     vertical-align: middle;
+
 }
 nav a:hover{
     color: white;
@@ -21,4 +22,8 @@ nav a:first-child img{
     vertical-align: middle;
     float: right;
     float: unset;
+}
+nav a:first-child{
+    font-size: 1.5em;
+
 }
