@@ -3,3 +3,22 @@
 body{
     background-color: rgb(221, 174, 113);
 }
+nav{
+    background-color: green;
+    padding: 15px;
+}
+nav a{
+    color: white;
+    margin: 15px;
+    vertical-align: middle;
+}
+nav a:hover{
+    color: white;
+    text-decoration: none;
+}
+nav a:first-child img{
+    width: 40px;
+    vertical-align: middle;
+    float: right;
+    float: unset;
+}
